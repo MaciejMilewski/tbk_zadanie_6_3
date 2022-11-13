@@ -10,7 +10,7 @@ Skrypty uruchamiające oraz czyszczące są napisane w PowerShell, działają na
 ```sh
 .\run.ps1
 ```
-- Czyszczenie - w katalogu z plikiem clean_after_run.ps1
+- Czyszczenie - w katalogu z plikiem clean.ps1
 ```sh
 .\clean.ps1
 ```
